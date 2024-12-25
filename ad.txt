@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 hi
+=======
+
+hi
+guys
+hi
+good morning
+Hello Guys!!!!
+welcome to vijayapur....
+
+>>>>>>> 773e56bd233e6b6f6ea6e216787bc9a513ba4ccd
